@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">OnOff</string>
+    <string name="switch_on">Switched on:</string>
+    <string name="switch_off">Switched off:</string>
+    <string name="banner_id" translatable="false">ca-app-pub-8761730220693010/6947385992</string>
+    <string name="inter_id" translatable="false">ca-app-pub-8761730220693010/3411465664</string>
+</resources>
